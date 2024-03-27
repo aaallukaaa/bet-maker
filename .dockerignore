@@ -1,0 +1,6 @@
+README.md
+Dockerfile
+run.py
+docker-compose.yaml
+.pytest_cache
+**/__pycache__/
